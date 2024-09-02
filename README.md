@@ -1,1 +1,1 @@
-# Lung-cancer-prediction-using-machine-learning.
+Developed a predictive model for lung cancer detection using various machine learning algorithms, including logistic regression, SVM, decision trees, and ensemble methods, with data preprocessing and hyperparameter tuning.
